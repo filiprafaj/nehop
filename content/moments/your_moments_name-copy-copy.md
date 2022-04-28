@@ -8,24 +8,16 @@ name:
 # empty is same as /nehop-profile.jpg
 # /martin.jpg
 # /kuba.jpg
-avatar: /kuba.jpg
+avatar: /martin.jpg
 
-date: 2022-04-28T16:05:06+02:00
+date: 2022-07-28
 
 tags:
+ - tag1
+ - tag2
 
-# 附加信息（选填1项或者不填写）
-# 附加信息类型1:单个图片
 pictures:
  - https://p8.itc.cn/images01/20210119/628400a0528c4dc696efdac8749b176d.jpeg
- - https://img.uooyoo.com/img2017/5/9/2017050941664829.jpg
- - https://cdn.pixabay.com/photo/2016/10/13/11/44/chocolates-1737503_1280.jpg
- - https://cdn.pixabay.com/photo/2016/01/11/07/18/cupcakes-1133146_1280.jpg
-
-
-link: https://www.google.com/maps
-link_text: maps
-# link_logo：
 
 
 note: note

@@ -5,10 +5,10 @@ top:
 # 名称（不填写则为设置的默认名称）
 name:
 
-# /nehop-profile.jpg
+# empty is same as /nehop-profile.jpg
 # /martin.jpg
 # /kuba.jpg
-avatar:
+avatar: /martin.jpg
 
 date: 2022-05-28
 
