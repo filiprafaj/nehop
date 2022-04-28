@@ -6,9 +6,9 @@ top: 1
 name: Zitra neni lezeni
 
 # nehop carabiner is default if empty
-# https://raw.githubusercontent.com/filiprafaj/nehop/main//martin.jpg
-# https://raw.githubusercontent.com/filiprafaj/nehop/main//kuba.jpg
-avatar: https://raw.githubusercontent.com/filiprafaj/nehop/main//kuba.jpg
+# https://raw.githubusercontent.com/filiprafaj/nehop/main/martin.jpg
+# https://raw.githubusercontent.com/filiprafaj/nehop/main/kuba.jpg
+avatar: https://raw.githubusercontent.com/filiprafaj/nehop/main/kuba.jpg
 
 date: 2022-05-28T16:05:06+02:00
 

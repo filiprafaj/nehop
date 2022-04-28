@@ -6,9 +6,9 @@ top:
 name: Nejaky clanek
 
 # nehop carabiner is default if empty
-# https://raw.githubusercontent.com/filiprafaj/nehop/main//martin.jpg
-# https://raw.githubusercontent.com/filiprafaj/nehop/main//kuba.jpg
-avatar: https://raw.githubusercontent.com/filiprafaj/nehop/main//martin.jpg
+# https://raw.githubusercontent.com/filiprafaj/nehop/main/martin.jpg
+# https://raw.githubusercontent.com/filiprafaj/nehop/main/kuba.jpg
+avatar: https://raw.githubusercontent.com/filiprafaj/nehop/main/martin.jpg
 
 date: 2022-07-28T16:05:06+02:00
 
