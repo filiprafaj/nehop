@@ -6,8 +6,8 @@ top:
 name:
 
 # nehop carabiner is default if empty
-# https://raw.githubusercontent.com/filiprafaj/nehop/main/martin.jpg
-# https://raw.githubusercontent.com/filiprafaj/nehop/main/kuba.jpg
+# https://raw.githubusercontent.com/filiprafaj/nehop/main/martin.png
+# https://raw.githubusercontent.com/filiprafaj/nehop/main/kuba.png
 avatar:
 
 date: 2022-04-28T16:05:06+02:00
