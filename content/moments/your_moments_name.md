@@ -5,13 +5,13 @@ top:
 # 名称（不填写则为设置的默认名称）
 name:
 
-# 头像（不填写则为设置的默认头像）
+# /nehop-profile.jpg
+# /martin.jpg
+# /kuba.jpg
 avatar:
 
-# 发布时间
 date: 2022-04-28T16:05:06+02:00
 
-# 给Moment添加标签
 tags:
 
 # 附加信息（选填1项或者不填写）
