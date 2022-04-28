@@ -5,8 +5,8 @@ paginate = 10
 paginatePath = '.'
 
 [params]
-    title = "NEHOP"
-    signature = "Horolezecký oddíl Pelhřimov"
+    title = ""
+    signature = ""
     cover = "https://raw.githubusercontent.com/filiprafaj/nehop/main/nehop.jpg"
 
     name = "Filip Rafaj"
