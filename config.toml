@@ -6,7 +6,7 @@ paginatePath = '.'
 
 [params]
     title = ""
-    signature = ""
+    signature = "horolezecký oddíl Pelhřimov"
     cover = "https://raw.githubusercontent.com/filiprafaj/nehop/main/nehop.jpg"
 
     name = "Filip Rafaj"
