@@ -7,7 +7,7 @@ paginatePath = '.'
 [params]
     title = ""
     signature = ""
-    cover = "https://raw.githubusercontent.com/filiprafaj/nehop/main/nehop.jpg"
+    cover = "https://raw.githubusercontent.com/filiprafaj/nehop/main/nehop_title.jpg"
 
-    name = "Filip Rafaj"
-    avatar = "/img/default_avatar.png"
+    name = "NEHOP"
+    avatar = "https://raw.githubusercontent.com/filiprafaj/nehop/main/nehop_profile.jpg"
