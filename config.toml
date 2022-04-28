@@ -10,4 +10,4 @@ paginatePath = '.'
     cover = "https://raw.githubusercontent.com/filiprafaj/nehop/main/nehop_title.jpg"
 
     name = "NEHOP"
-    avatar = "https://raw.githubusercontent.com/filiprafaj/nehop/main/nehop_profile.jpg"
+    avatar = "/nehop_profile.jpg"
