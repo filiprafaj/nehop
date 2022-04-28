@@ -10,7 +10,7 @@ name: Nejaky clanek
 # https://raw.githubusercontent.com/filiprafaj/nehop/main/kuba.jpg
 avatar: https://raw.githubusercontent.com/filiprafaj/nehop/main/martin.jpg
 
-date: 2022-07-28T16:05:06+02:00
+date: 2022-02-28T16:05:06+02:00
 
 tags:
  - tag1
@@ -23,4 +23,3 @@ pictures:
 note:
 ---
 Ullamco consectetur et duis officia quis proident Lorem eiusmod. Cillum duis sit consectetur commodo cillum. Reprehenderit in fugiat dolor magna magna. Minim officia ullamco incididunt in incididunt nostrud sit nulla et ea qui amet ea exercitation. Enim cupidatat id voluptate qui proident. Reprehenderit fugiat eu sit cillum esse pariatur.
-

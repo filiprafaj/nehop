@@ -10,7 +10,7 @@ name: Zitra neni lezeni
 # https://raw.githubusercontent.com/filiprafaj/nehop/main/kuba.jpg
 avatar: https://raw.githubusercontent.com/filiprafaj/nehop/main/kuba.jpg
 
-date: 2022-05-28T16:05:06+02:00
+date: 2022-03-28T16:05:06+02:00
 
 tags:
 #  - tag1
@@ -19,8 +19,6 @@ tags:
 pictures:
  - https://p8.itc.cn/images01/20210119/628400a0528c4dc696efdac8749b176d.jpeg
 
-
 note:
 ---
 Ullamco consectetur et duis officia quis proident Lorem eiusmod. Cillum duis sit consectetur commodo cillum. Reprehenderit in fugiat dolor magna magna. Minim officia ullamco incididunt in incididunt nostrud sit nulla et ea qui amet ea exercitation. Enim cupidatat id voluptate qui proident. Reprehenderit fugiat eu sit cillum esse pariatur.
-
