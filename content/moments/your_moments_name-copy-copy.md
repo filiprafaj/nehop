@@ -10,7 +10,7 @@ name:
 # /kuba.jpg
 avatar: /martin.jpg
 
-date: 2022-07-28
+date: 2022-07-28T16:05:06+02:00
 
 tags:
  - tag1
