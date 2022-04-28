@@ -24,17 +24,14 @@ pictures:
  - https://cdn.pixabay.com/photo/2016/10/13/11/44/chocolates-1737503_1280.jpg
  - https://cdn.pixabay.com/photo/2016/01/11/07/18/cupcakes-1133146_1280.jpg
 
-# 附加信息类型2:网页链接
-# link：必填，网页链接；
-# link_text：必填，链接显示的文字；
-# link_logo：选填，网页logo，现在支持部分网站自动找到对应图标，无需自己添加图标
-link:
-link_text:
-link_logo:
 
-# 备注信息
-note:
+link： https://www.google.com/maps
+link_text： maps
+# link_logo：
+
+
+note: note
 ---
 
-<!-- 下面开始写正文 -->
+Ullamco consectetur et duis officia quis proident Lorem eiusmod. Cillum duis sit consectetur commodo cillum. Reprehenderit in fugiat dolor magna magna. Minim officia ullamco incididunt in incididunt nostrud sit nulla et ea qui amet ea exercitation. Enim cupidatat id voluptate qui proident. Reprehenderit fugiat eu sit cillum esse pariatur.
 
