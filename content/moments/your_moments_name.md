@@ -3,7 +3,7 @@
 top:
 
 # 名称（不填写则为设置的默认名称）
-name:
+name: Nadpis
 
 # /nehop-profile.jpg
 # /martin.jpg
