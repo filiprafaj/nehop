@@ -25,8 +25,8 @@ pictures:
  - https://cdn.pixabay.com/photo/2016/01/11/07/18/cupcakes-1133146_1280.jpg
 
 
-link： https://www.google.com/maps
-link_text： maps
+link: https://www.google.com/maps
+link_text: maps
 # link_logo：
 
 
