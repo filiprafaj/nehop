@@ -1,0 +1,13 @@
+baseURL = "https://filiprafaj.github.io/nehop"
+languageCode = "cs"
+theme = "moments"
+paginate = 10
+paginatePath = '.'
+
+[params]
+    title = "NEHOP"
+    signature = "Horolezecky Oddil Pelhrimov"
+    cover = "https://cdn.pixabay.com/photo/2018/03/13/22/53/puzzle-3223941_1280.jpg"
+
+    name = "Filip Rafaj"
+    avatar = "/img/default_avatar.png"
