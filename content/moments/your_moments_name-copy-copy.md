@@ -20,7 +20,7 @@ pictures:
  - https://p8.itc.cn/images01/20210119/628400a0528c4dc696efdac8749b176d.jpeg
 
 
-# note: note
+note:
 ---
 Ullamco consectetur et duis officia quis proident Lorem eiusmod. Cillum duis sit consectetur commodo cillum. Reprehenderit in fugiat dolor magna magna. Minim officia ullamco incididunt in incididunt nostrud sit nulla et ea qui amet ea exercitation. Enim cupidatat id voluptate qui proident. Reprehenderit fugiat eu sit cillum esse pariatur.
 
