@@ -5,9 +5,9 @@ top:
 # 名称（不填写则为设置的默认名称）
 name:
 
-# empty is same as /nehop-profile.jpg
-# /martin.jpg
-# /kuba.jpg
+# nehop carabiner is default if empty
+# https://raw.githubusercontent.com/filiprafaj/nehop/main//martin.jpg
+# https://raw.githubusercontent.com/filiprafaj/nehop/main//kuba.jpg
 avatar: /kuba.jpg
 
 date: 2022-04-28T16:05:06+02:00
