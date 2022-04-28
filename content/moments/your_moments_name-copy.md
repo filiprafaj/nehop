@@ -12,7 +12,7 @@ avatar:
 
 date: 2022-05-28
 
-# tags:
+tags:
 #  - tag1
 #  - tag2
 
