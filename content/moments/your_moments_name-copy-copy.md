@@ -3,7 +3,7 @@
 top:
 
 # 名称（不填写则为设置的默认名称）
-name:
+name: Nejaky clanek
 
 # empty is same as /nehop-profile.jpg
 # /martin.jpg

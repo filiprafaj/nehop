@@ -1,9 +1,9 @@
 ---
 # 置顶 (如需置顶这片Moment, 则将值设定为大于0的整数, 值越小越靠前，例如1会将moment放在最顶端)
-top:
+top: 1
 
 # 名称（不填写则为设置的默认名称）
-name:
+name: Zitra neni lezeni
 
 # empty is same as /nehop-profile.jpg
 # /martin.jpg
